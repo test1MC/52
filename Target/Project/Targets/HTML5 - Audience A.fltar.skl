@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="MadCap HTML5 Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MoveOutputContentToRoot="false" SkinComponents="" EnableResponsiveOutput="true" MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp" ResultsPerPage="10" Skin="/Project/Skins/HTML5 - Top Navigation.flskn" ConditionTagExpression="include[&quot;General.Audience A&quot;] exclude[&quot;General.Audience B&quot;] " DefaultUrl="/Content/Home.htm" SearchEngine="Elasticsearch">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+    <Elasticsearch Guid="f5f02723-86f8-40aa-831e-cf2725a5d602" />
+</CatapultTarget>
